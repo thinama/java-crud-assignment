@@ -1,4 +1,4 @@
-Project Folder open in intellij  or eclips
+Project Folder open in  eclips ide
 Run app.java file
 ---------------------------------
 database setup
